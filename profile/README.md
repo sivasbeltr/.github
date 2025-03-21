@@ -19,6 +19,8 @@ Sivas Belediyesi Akıllı Şehir Müdürlüğü olarak, geliştirdiğimiz **tüm
 - Belediyelerin kaynaklarını verimli kullanmak için kod tekrarını önlüyoruz
 - Açık kaynak felsefesiyle yerel yönetimler arasında işbirliği ve bilgi paylaşımını teşvik ediyoruz
 
+**Açık Kaynak Manifestomuz:** Açık kaynak yaklaşımımızın temellerini ve dijital belediyeciliğin geleceğine dair vizyonumuzu detaylandıran [manifestomuzu okuyun](./manifesto.md).
+
 **Gerçek İlerleme Paylaşmakla Mümkündür:** İnanıyoruz ki, bilgi ve teknoloji paylaşıldıkça değer kazanır. Belediyeler olarak gerçek ilerleme, birbirimizin deneyimlerinden öğrenerek ve çözümlerimizi paylaşarak mümkün olacaktır. Kaynakların kısıtlı olduğu bir dünyada, açık kaynak yaklaşımı yerel yönetimlerin daha hızlı gelişmesini ve vatandaşlara daha iyi hizmet sunmasını sağlar.
 
 **Birlikte Güçlüyüz:** Biz Sivas Belediyesi olarak biliyoruz ki, toplumsal gelişim rekabet ile değil, işbirliği ile gerçekleşir. Bir belediyenin başarısı, tüm belediyelerin başarısıdır. Geliştirdiğimiz her çözüm, paylaştığımız her bilgi, ülkemizin dijital dönüşümüne katkı sağlar. Akıllı şehircilik alanında attığımız her adımı, diğer belediyelerle paylaşmaktan gurur duyuyoruz.
