@@ -7,7 +7,7 @@ Biz, Sivas Belediyesi Akıllı Şehir Müdürlüğü olarak, yazılım dünyası
 ### İnanıyoruz ki:
 
 1. **Kamu Kaynakları Tekrar Tekrar Harcanmamalıdır**  
-   Her belediyenin aynı sorunlar için ayrı ayrı yazılım geliştirmesi kamu kaynaklarının israfıdır. Bir kere geliştirilen çözümler, tüm belediyelerin kullanımına açık olmalıdır.
+   5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu'nda belirtilen "kamu kaynaklarının etkili, ekonomik, verimli ve hukuka uygun kullanılması" ilkesi doğrultusunda, her belediyenin aynı sorunlar için ayrı ayrı yazılım geliştirmesi kamu kaynaklarının israfıdır. Bir kere geliştirilen çözümler, tüm belediyelerin kullanımına açık olmalıdır.
 
 2. **Bilgi Paylaşıldıkça Çoğalır**  
    Yerel yönetimler rekabet halinde değil, işbirliği içinde olmalıdır. Senin başarın, bizim başarımızdır. Senin çözümün, bizim çözümümüzdür.
@@ -27,6 +27,9 @@ Biz, Sivas Belediyesi Akıllı Şehir Müdürlüğü olarak, yazılım dünyası
 7. **Sürdürülebilir Kalkınma Ortak Çabayla Mümkündür**  
    Belediyelerimizin karşı karşıya olduğu ekonomik ve çevresel zorluklar, ancak bilgiyi ve kaynakları paylaşarak aşılabilir. Açık kaynak, sürdürülebilir kalkınmanın dijital boyutudur.
 
+8. **Yapay Zeka Teknolojileri Kamunun Yararına Olmalıdır**  
+   Yapay zeka teknolojileri, kamu hizmetlerini daha erişilebilir, verimli ve kişiselleştirilmiş hale getirebilir. Ancak bu teknolojilerin şeffaf, adil, hesap verilebilir ve etik ilkelere bağlı olarak geliştirilmesi ve kamuya açık olması gerekir. Özel şirketlerin tekelindeki kapalı AI sistemleri yerine, açık kaynaklı yapay zeka modelleri belediyelerin dijital özerkliğini ve veri egemenliğini güvence altına alır.
+
 ### Taahhüdümüz:
 
 - Geliştirdiğimiz tüm yazılım projelerini açık kaynak lisanslarla paylaşacağız
@@ -35,6 +38,10 @@ Biz, Sivas Belediyesi Akıllı Şehir Müdürlüğü olarak, yazılım dünyası
 - Açık standartları ve açık veri ilkelerini benimseyeceğiz
 - Kapalı ve özel yazılımlara bağımlılığı azaltacak alternatifler geliştireceğiz
 - Yazılım topluluklarıyla işbirliğini teşvik edecek etkinlikler düzenleyeceğiz
+- 5018 sayılı kanunun gerektirdiği mali şeffaflık ve hesap verebilirlik ilkelerini dijital çözümlerimizde uygulayacağız, kamu kaynaklarının etkili, ekonomik, verimli ve hukuka uygun kullanılmasını sağlayacağız
+- Yapay zeka sistemlerini geliştirirken ve kullanırken etik ilkelere bağlı kalacağız, algoritma şeffaflığını sağlayacağız ve mümkün olduğunca açık AI modellerini tercih edeceğiz
+- Yapay zeka eğitimi için kullanılan verilerin vatandaş mahremiyetini koruyacak şekilde anonim hale getirilmesini ve uygun durumlarda toplulukla paylaşılmasını teşvik edeceğiz
+- Yerel yönetimlerin yapay zeka okuryazarlığını artırmak için eğitim programları düzenleyeceğiz
 
 ### Çağrımız:
 
@@ -42,7 +49,7 @@ Tüm belediyeleri, yazılım geliştiricileri, akademisyenleri ve vatandaşları
 
 **Bilgi paylaştıkça çoğalır, sorunlar paylaştıkça küçülür.**
 
-*"Yalnız gidersen daha hızlı, birlikte gidersen daha uzağa varırsın."* - Afrika Atasözü
+*"Hızlı gitmek istiyorsan yalnız git. Çok daha uzağa gitmek istiyorsan, birlikte git."* - Afrika Atasözü
 
 ---
 
