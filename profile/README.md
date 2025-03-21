@@ -49,4 +49,4 @@ Belediyeler, yazılımlarımızı kullanmak veya katkıda bulunmak için [GitHub
 **Kod Deposu:** [github.com/sivasbelediyesi](https://github.com/sivasbeltr)
 
 ---
-© 2025 Sivas Belediyesi Akıllı Şehir Müdürlüğü. Tüm hakları saklıdır.
+© 2025 Sivas Belediyesi Akıllı Şehir Müdürlüğü. Tüm hakları kamuya aittir.
