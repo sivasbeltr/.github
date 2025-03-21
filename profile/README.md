@@ -24,7 +24,7 @@ Sivas Belediyesi Akıllı Şehir Müdürlüğü, şehrimizi modern teknolojilerl
 
 **E-posta:** akillisehir@sivas.bel.tr
 
-**Telefon:** +90 346 XXX XX XX
+**Telefon:** +90 346 221 01 10
 
 **Web:** [akillisehir.sivas.bel.tr](https://akillisehir.sivas.bel.tr)
 ---
